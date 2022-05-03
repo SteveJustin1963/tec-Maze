@@ -1,7 +1,7 @@
 # tec-Maze
 
-![](https://github.com/SteveJustin1963/tec-Maze/blob/main/pics/TEC%20Invaders%20or%20Maze.jpg)
-![]()
+![](https://github.com/SteveJustin1963/tec-Maze/blob/main/pics/2.png)
+![](https://github.com/SteveJustin1963/tec-Maze/blob/main/pics/nokia1.png)
 
 
 
