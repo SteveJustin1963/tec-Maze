@@ -1,7 +1,10 @@
 # tec-Maze
 
-- 
-- Mint equiv
+![](https://github.com/SteveJustin1963/tec-Maze/blob/main/pics/TEC%20Invaders%20or%20Maze.jpg)
+![]()
+
+
+
 
 
 ## Ref
